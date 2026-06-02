@@ -2,13 +2,11 @@
 
 ### Microsoft & Santander Academy
 
-Esta pasta contém o progresso técnico e os projetos práticos desenvolvidos durante o curso de Power BI oferecido pela **Microsoft** em parceria com a **Santander Academy**. O foco desta etapa foi o domínio da ferramenta desde a ingestão de dados até a criação de relatórios interativos e limpeza de dados com Power Query.
-
-## Competências Desenvolvidas
+Este material de projetos práticos, desenvolvidos durante o curso de Power BI **Santander Academy**, abrange desde a ingestão de dados até a criação de relatórios interativos e limpeza de dados com Power Query.
 
 ### 1. Ingestão e Estruturação de Dados
 *   **Conectividade:** Importação de dados a partir de fontes variadas (Excel, Tabelas Estruturadas, arquivos CSV e TXT).
-*   **Tratamento de Dados (Power Query):** Primeiros passos com o editor de consultas, alteração de fontes de dados, transformações básicas e carga otimizada para o modelo.
+*   **Tratamento de Dados (Power Query):** Editor de consultas, alteração de fontes de dados, transformações básicas e carga otimizada para o modelo.
 *   **Tipagem e Formatação:** Aplicação de formatos padrão e personalizados para garantir a integridade da análise.
 
 ### 2. Visualização de Dados e Storytelling
@@ -27,9 +25,23 @@ Esta pasta contém o progresso técnico e os projetos práticos desenvolvidos du
 
 ---
 
+Star Schema:
+
+<img width="713" height="455" alt="image" src="https://github.com/user-attachments/assets/b064d110-38c0-4ab5-ba38-15220dcae365" />
+
+
+Medidas:
+
+<img width="254" height="217" alt="image" src="https://github.com/user-attachments/assets/36e4b08d-6f5b-4a00-9580-3413f70c0f26" />
+
+
+<img width="223" height="457" alt="image" src="https://github.com/user-attachments/assets/f5655b24-6f90-4e3b-addf-40c5216e7c41" />
+
+
 Capa:
 
-<img width="904" height="509" alt="image" src="https://github.com/user-attachments/assets/56dff0cb-39bf-455f-bbfd-36768279db42" />
+<img width="900" height="506" alt="image" src="https://github.com/user-attachments/assets/eadf03b9-3e6c-44a0-bb98-998fc42d5f64" />
+
 
 Executivo:
 
@@ -46,4 +58,4 @@ Professores:
 <img width="907" height="507" alt="image" src="https://github.com/user-attachments/assets/208a7ea4-eddf-4ff1-8803-02de2bd147a6" />
 
 ---
-*Este repositório faz parte do meu portfólio técnico como Cientista de Dados. Para mais projetos de MLOps e Big Data, retorne à raiz do perfil.*
+*Este repositório faz parte do meu portfólio técnico como Cientista de Dados para estudos de Microsoft Power BI.*
