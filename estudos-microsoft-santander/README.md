@@ -1,6 +1,8 @@
-# 📊 Formação Power BI - Microsoft & Santander Academy
+<img width="348" height="41" alt="image" src="https://github.com/user-attachments/assets/073ea1ee-b375-4743-b2ec-4ff7a925a348" />
 
-Este diretório contém o progresso técnico e os projetos práticos desenvolvidos durante o curso de Power BI oferecido pela **Microsoft** em parceria com a **Santander Academy**. O foco desta etapa foi o domínio da ferramenta desde a ingestão de dados até a criação de relatórios interativos e limpeza de dados com Power Query.
+### Microsoft & Santander Academy
+
+Esta pasta contém o progresso técnico e os projetos práticos desenvolvidos durante o curso de Power BI oferecido pela **Microsoft** em parceria com a **Santander Academy**. O foco desta etapa foi o domínio da ferramenta desde a ingestão de dados até a criação de relatórios interativos e limpeza de dados com Power Query.
 
 ## Competências Desenvolvidas
 
